@@ -35,3 +35,7 @@ npm run build
 ### 添加vue.config.js 进行一些配置，这个文件会自动合并到其他配置中，文件名不能错
 
 ### 添加.editorconfig 配置文件，统一代码风格
+
+### 添加tabbar
+
+### 安装路由 npm install vue-router --save
